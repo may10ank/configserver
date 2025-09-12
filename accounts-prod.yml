@@ -2,11 +2,12 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related prod APIs "
+  message: "Welcome to Bank accounts related production APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Reine nabfd - engineer"
     email: "{cipher}c536267b1d8deb90abbf3549a21c15b8737dc1701a9417efc71476412dcfea38f21a31016c529a22723e524c8e7efb76"
   onCallSupport:
     - (453) 392-4829
 
     - (236) 203-0384
+
